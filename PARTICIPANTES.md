@@ -16,6 +16,7 @@ Ao adicionar o seu nome, por favor observe:
 | Abraão Nascimento Carvalho     | abraaocrvlhodev@gmail.com               | https://github.com/abraaocrvlhodev        |
 | Adilson Boson Almeida Junior   | adboson@gmail.com                       | https://github.com/adboson                |
 | Adolfo Gustavo Serra Seca Neto | adolfo.usp@gmail.com                    | https://github.com/adolfont               |
+| Adriano José de Barros Júnior  | No Email                                | https://github.com/devjunr                |
 | Adriano Roberto de Lima        | adriano.lima@arlima.com.br              | https://github.com/arlima                 |
 | Afonso Augusto Rodrigues       | afonsoaugustoventura@gmail.com          | https://github.com/afonsoaugusto          |
 | Alan Ariel de Souza Cordeiro   | souzacordeiroalann@gmail.com            | https://github.com/soualann               |
@@ -28,15 +29,19 @@ Ao adicionar o seu nome, por favor observe:
 | Alexandre Correa Raeder        | argto88@gmail.com                       | https://github.com/acraeder               |
 | Alexandre Ferreira             | alexandre4fl@hotmail.com                | https://github.com/Alexandre2539          |
 | Alexandre Oliveira             | alexandreferreiradeoliveira40@gmail.com | https://github.com/AlexandreOliver        |
+| Alexandre Paloschi Horta       | alexandre.horta@gmail.com               | https://github.com/AlexPHorta             |
 | Alexandre Pierre               | alexandrempierre@gmail.com              | https://github.com/alexandrempierre       |
 | Alexandre Pires F. de Miranda  | alexandre.miranda@gmail.com             | https://github.com/apfmiranda             |
 | Alexsandro Felix               | felix@ffelix.eti.br                     | https://github.com/asfelix                |
 | Alexsandro Matias              | matiasalexsandro@gmail.com              | https://github.com/alexsandro-matias      |
 | Aline de Farias Lisboa         | lisboalien@gmail.com                    | https://github.com/lisboalien             |
+| Alison de Lima Nascimento      | alison.nascimento@hotmail.com           | https://github.com/AlisonLN               |
 | Alisson Soares da Silva        | alissonsoaressocial02@gmail.com         | https://github.com/soaresSilva            |
 | Allan Miguel                   | flaffymg@gmail.com                      | https://github.com/flafmg                 |
+| Allber Fellype Soares Ferreira | allber31415@gmail.com                   | https://github.com/JamesStewart-314       |
 | Ana Paula de Mazi              | anapaulamazi@outlook.com                | https://github.com/AnaPaulaMazi           |
 | Anderson Santos                | anderood@hotmail.com                    | https://github.com/anderood               |
+| Anderson Souza Gomes           | derson3001@gmai.com                     | https://github.com/anderson3001           |
 | Anderson Unsonst               | andersonunsonst@gmail.com               | https://github.com/andersonunsonst        | 
 | André Carvalhais               | carvalhais1981@gmail.com                | https://github.com/carvalhais             |
 | Andre Caviuna                  | abaquar.dev@gmail.com                   | https://github.com/Caviuna                | 
@@ -120,6 +125,7 @@ Ao adicionar o seu nome, por favor observe:
 | Felipe M. Ferreira             | felipe.m.frrr@gmail.com                 | https://github.com/felipefrr              |
 | Felipe Quirino Araujo          | felipeqaraujo@hotmail.com               | https://github.com/Felipedroid            |
 | Felipe Tiburcio de Araújo      | felipe.tiburcio@gmail.com               | https://github.com/felipe-tiburcio        |
+| Fernando Jefferson S. Roza     | fernandojefferson321@gmail.com          | https://github.com/fernandojeff           |
 | Fernando P. Marques Jr.        | fernandopozomqs@gmail.com               | https://github.com/Fernando-Pozo          |
 | Fidelis Guimarães              | atosfiel@gmail.com                      | https://github.com/fidelisfelipe          |
 | Flávio Júnior Avelino da Silva | flaviojunior.work@gmail.com             | https://github.com/flavio-junior          |
@@ -183,6 +189,7 @@ Ao adicionar o seu nome, por favor observe:
 | Jonathan B. da Silva Nunes     | jonathanbarreira@gmail.com              | https://github.com/jholl-b                |
 | Jonathan Lopes Pinheiro        | jonathancruzeiro123@gmail.com           | https://github.com/JonathanLopes403       |
 | Jorge Tarin Ibañez Neto        | jorge.tariin@gmail.com                  | https://github.com/jorge-tarin            |
+| Jose Alison da Silva           | alisondasilva291103@gmail.com           | https://github.com/imalisoon              |
 | José Lucas da S. Marques       | devmarques09@gmail.com                  | https://github.com/marques09              |
 | Jose Maria C. de F. Júnior     | jozemariajrr@gmail.com                  | https://github.com/jozemaria              |
 | José Rodrigo de Sousa          | rodrigo.ka1709@gmail.com                | https://github.com/Rodrigo1809            |
@@ -202,6 +209,7 @@ Ao adicionar o seu nome, por favor observe:
 | Klisóstom Sousa Da Silva       | klis@pm.me                              | https://github.com/klisostom              |
 | Kyldery Oliveira               | kyll.weslley@gmail.com                  | https://github.com/kyldery                |
 | Lauro Silveira Neto            | laurosn@gmail.com                       | https://github.com/laurosn                |
+| Leandro Guedes                 | leanguedes@icloud.com                   | https://github.com/rocketguedes           |
 | Leo Baiano                     | ljunior2005@gmail.com                   | https://github.com/leobaiano              |
 | Leo Silva Souza                | leovano@protonmail.com                  | https://github.com/leovano                |
 | Leonardo Augusto Gallo         | galloaleonardo@gmail.com                | https://github.com/galloaleonardo         |
@@ -270,6 +278,8 @@ Ao adicionar o seu nome, por favor observe:
 | Maylson Natan dos Santos Maia  | natanmaia02@gmail.com                   | https://github.com/NTMaia                 |
 | Mayrlon Carlos                 | mayrloncarlos@gmail.com                 | https://github.com/mayrloncarlos          |
 | Michel Bernardo da Silveira    | No Email                                | https://github.com/michelbernardods       |
+| Miguel Ramos Gil               | miguelramos5gg@gmail.com                | https://github.com/Molgo                  |
+| Miguel Vitta Alcântara Borges  | miguelvittadev@gmail.com                | https://github.com/Miguel-V-DF            |
 | Moises Maia Gomes              | dev.mmaia@gmail.com                     | https://github.com/devmmaia               |
 | Murilo de Andrade Melo         | muriloa.melo01@gmail.com                | https://github.com/MuriloAM               |
 | Nicholas Borba                 | nicholasborba@gmail.com                 | https://github.com/nkborba                |
@@ -299,6 +309,7 @@ Ao adicionar o seu nome, por favor observe:
 | Rafael Perez Garcia            | rafaelsfs@gmail.com                     | https://github.com/rafaelsfs              |
 | Rafael Venditi de Leão         | raffaelleao@gmail.com                   | https://github.com/raffaelleao            |
 | Raimundo Alves Nunes Neto      | otenneto123@gmail.com                   | https://github.com/donumiad               |
+| Raudinei de Jesus Mauricio     | rjmauricio95@gmail.com                  | https://github.com/RaudineiMauricio       |
 | Renata Miranda Rabelo Nésio    | renata.nesio2@gmail.com                 | https://github.com/renatanesio            |
 | Renato Oliveira da Silva       | renatohanks@gmail.com                   | https://github.com/renatohanks            |
 | Ricardo Severo                 | ricardosilva.official@outlook.com       | https://github.com/ricardosevero          |
@@ -327,6 +338,7 @@ Ao adicionar o seu nome, por favor observe:
 | Samuel Martins Vilhalva        | No Email                                | https://github.com/VILHALVA               |
 | Samuel Ramos                   | samramox@gmail.com                      | https://github.com/samuelramox            |
 | Savio S. Gusmão                | saviosg@outlook.com                     | https://github.com/saviosg                |
+| Sergio Herman Bastos Lima      | sergioherman@id.uff.br                  | https://github.com/sergioherman           |
 | Simon James Shurety            | simonjshurety@gmail.com                 | https://github.com/Simonjshurety          |
 | Stéfano Tavares Diane          | stefanotd@yahoo.com.br                  | https://github.com/stefanotd              |
 | Suzane da Silva Melo           | melo.suzane.89@gmail.com                | https://github.com/SuzaneMelo             |
